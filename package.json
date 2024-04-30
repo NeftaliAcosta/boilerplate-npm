@@ -4,6 +4,7 @@
 	"description": "A basic Project at Node JS",
 	"keywords": [ "npm", "node", "boilerplage", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
